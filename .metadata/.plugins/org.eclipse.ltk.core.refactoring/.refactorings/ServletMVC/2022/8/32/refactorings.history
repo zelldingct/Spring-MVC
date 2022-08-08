@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;kr.co.mytest.service&apos; to &apos;kr.co.mytest.model&apos;&#x0D;&#x0A;- Original project: &apos;ServletMVC&apos;&#x0D;&#x0A;- Original element: &apos;ServletMVC/src/kr.co.mytest.service&apos;&#x0D;&#x0A;- Renamed element: &apos;ServletMVC/src/kr.co.mytest.model&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;kr.co.mytest.service&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;kr.co.mytest.service" name="kr.co.mytest.model" qualified="false" references="true" stamp="1659719658452" textual="false" version="1.0"/>
+</session>
