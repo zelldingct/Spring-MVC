@@ -74,3 +74,11 @@
 127.0.0.1 - - [09/Aug/2022:05:28:48 +0900] "GET / HTTP/1.1" 404 807
 0:0:0:0:0:0:0:1 - - [09/Aug/2022:05:28:49 +0900] "GET /SpringMVCXml/ HTTP/1.1" 200 182
 0:0:0:0:0:0:0:1 - - [09/Aug/2022:05:28:49 +0900] "GET /SpringMVCXml/image/abc.svg HTTP/1.1" 200 4254
+127.0.0.1 - - [09/Aug/2022:15:48:13 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [09/Aug/2022:15:48:15 +0900] "GET /ServletMVC/ HTTP/1.1" 200 47
+0:0:0:0:0:0:0:1 - - [09/Aug/2022:15:48:15 +0900] "GET /ServletMVC/main.mvc HTTP/1.1" 200 243
+0:0:0:0:0:0:0:1 - - [09/Aug/2022:15:48:15 +0900] "GET /favicon.ico HTTP/1.1" 404 818
+0:0:0:0:0:0:0:1 - - [09/Aug/2022:15:48:18 +0900] "GET /ServletMVC/test1.mvc?data1=100&data2=200 HTTP/1.1" 200 158
+0:0:0:0:0:0:0:1 - - [09/Aug/2022:15:48:22 +0900] "GET /ServletMVC/test2.mvc?data1=100&data2=200 HTTP/1.1" 200 157
+127.0.0.1 - - [09/Aug/2022:15:57:16 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [09/Aug/2022:15:57:16 +0900] "GET /SpringMVCJava/WEB-INF/classes/kr/co/mytest/config/SpringConfigClass.java HTTP/1.1" 404 721
