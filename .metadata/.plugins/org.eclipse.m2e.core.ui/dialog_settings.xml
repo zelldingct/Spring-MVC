@@ -2,12 +2,16 @@
 <section name="Workbench">
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="SpringMVCJava"/>
+			<item value="ServletMVC"/>
 			<item value="SpringMVCXml"/>
 			<item value="SpringMVCStep1"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="SpringMVCJava"/>
+			<item value="ServletMVC"/>
 			<item value="SpringMVCXml"/>
 			<item value="SpringMVCStep1"/>
 		</list>

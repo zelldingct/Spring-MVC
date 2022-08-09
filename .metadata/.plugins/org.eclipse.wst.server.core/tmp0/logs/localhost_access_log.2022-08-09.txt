@@ -82,3 +82,9 @@
 0:0:0:0:0:0:0:1 - - [09/Aug/2022:15:48:22 +0900] "GET /ServletMVC/test2.mvc?data1=100&data2=200 HTTP/1.1" 200 157
 127.0.0.1 - - [09/Aug/2022:15:57:16 +0900] "GET / HTTP/1.1" 404 807
 0:0:0:0:0:0:0:1 - - [09/Aug/2022:15:57:16 +0900] "GET /SpringMVCJava/WEB-INF/classes/kr/co/mytest/config/SpringConfigClass.java HTTP/1.1" 404 721
+127.0.0.1 - - [09/Aug/2022:17:44:19 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [09/Aug/2022:17:44:20 +0900] "GET /SpringMVCJava/ HTTP/1.1" 404 823
+0:0:0:0:0:0:0:1 - - [09/Aug/2022:17:46:37 +0900] "GET /SpringMVCJava/ HTTP/1.1" 200 182
+0:0:0:0:0:0:0:1 - - [09/Aug/2022:17:46:37 +0900] "GET /SpringMVCJava/image/abc.svg HTTP/1.1" 404 721
+0:0:0:0:0:0:0:1 - - [09/Aug/2022:17:47:11 +0900] "GET /SpringMVCJava/ HTTP/1.1" 200 182
+0:0:0:0:0:0:0:1 - - [09/Aug/2022:17:47:12 +0900] "GET /SpringMVCJava/image/abc.svg HTTP/1.1" 200 4254
