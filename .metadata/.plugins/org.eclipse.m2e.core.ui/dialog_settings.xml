@@ -2,6 +2,10 @@
 <section name="Workbench">
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="GetParameterObject"/>
+			<item value="GetParameter"/>
+			<item value="RequestMethod"/>
+			<item value="URLMapping"/>
 			<item value="SpringMVCJava"/>
 			<item value="ServletMVC"/>
 			<item value="SpringMVCXml"/>
@@ -10,6 +14,10 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="GetParameterObject"/>
+			<item value="GetParameter"/>
+			<item value="RequestMethod"/>
+			<item value="URLMapping"/>
 			<item value="SpringMVCJava"/>
 			<item value="ServletMVC"/>
 			<item value="SpringMVCXml"/>
