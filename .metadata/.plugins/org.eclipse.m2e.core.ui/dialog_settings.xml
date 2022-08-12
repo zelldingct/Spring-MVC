@@ -2,6 +2,11 @@
 <section name="Workbench">
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="RedirectForward"/>
+			<item value="FormElement1"/>
+			<item value="FormCustomTag"/>
+			<item value="CommandObject"/>
+			<item value="ViewResolver"/>
 			<item value="GetParameterObject"/>
 			<item value="GetParameter"/>
 			<item value="RequestMethod"/>
@@ -14,6 +19,11 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="RedirectForward"/>
+			<item value="FormElement1"/>
+			<item value="FormCustomTag"/>
+			<item value="CommandObject"/>
+			<item value="ViewResolver"/>
 			<item value="GetParameterObject"/>
 			<item value="GetParameter"/>
 			<item value="RequestMethod"/>
