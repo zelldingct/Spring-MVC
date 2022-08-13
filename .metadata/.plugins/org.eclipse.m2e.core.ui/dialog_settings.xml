@@ -2,6 +2,13 @@
 <section name="Workbench">
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="ApplicationScope"/>
+			<item value="SessionScopeBeanXml"/>
+			<item value="SessionScopeBeanJava"/>
+			<item value="SessionScope"/>
+			<item value="RequestScopeBeanXml"/>
+			<item value="RequestScopeBeanJava"/>
+			<item value="RequestScope"/>
 			<item value="RedirectForward"/>
 			<item value="FormElement1"/>
 			<item value="FormCustomTag"/>
@@ -10,15 +17,17 @@
 			<item value="GetParameterObject"/>
 			<item value="GetParameter"/>
 			<item value="RequestMethod"/>
-			<item value="URLMapping"/>
-			<item value="SpringMVCJava"/>
-			<item value="ServletMVC"/>
-			<item value="SpringMVCXml"/>
-			<item value="SpringMVCStep1"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="ApplicationScope"/>
+			<item value="SessionScopeBeanXml"/>
+			<item value="SessionScopeBeanJava"/>
+			<item value="SessionScope"/>
+			<item value="RequestScopeBeanXml"/>
+			<item value="RequestScopeBeanJava"/>
+			<item value="RequestScope"/>
 			<item value="RedirectForward"/>
 			<item value="FormElement1"/>
 			<item value="FormCustomTag"/>
@@ -27,11 +36,6 @@
 			<item value="GetParameterObject"/>
 			<item value="GetParameter"/>
 			<item value="RequestMethod"/>
-			<item value="URLMapping"/>
-			<item value="SpringMVCJava"/>
-			<item value="ServletMVC"/>
-			<item value="SpringMVCXml"/>
-			<item value="SpringMVCStep1"/>
 		</list>
 		<list key="version">
 			<item value="0.0.1-SNAPSHOT"/>
