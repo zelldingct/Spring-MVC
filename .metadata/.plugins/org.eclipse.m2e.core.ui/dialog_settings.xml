@@ -2,6 +2,11 @@
 <section name="Workbench">
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="InterceptorXml"/>
+			<item value="IntercentorJava"/>
+			<item value="CustomValidator"/>
+			<item value="JSR-380"/>
+			<item value="JSR-303"/>
 			<item value="ValidationMessage"/>
 			<item value="Validate"/>
 			<item value="MessageXml"/>
@@ -12,15 +17,15 @@
 			<item value="ApplicationScope"/>
 			<item value="SessionScopeBeanXml"/>
 			<item value="SessionScopeBeanJava"/>
-			<item value="SessionScope"/>
-			<item value="RequestScopeBeanXml"/>
-			<item value="RequestScopeBeanJava"/>
-			<item value="RequestScope"/>
-			<item value="RedirectForward"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="InterceptorXml"/>
+			<item value="IntercentorJava"/>
+			<item value="CustomValidator"/>
+			<item value="JSR-380"/>
+			<item value="JSR-303"/>
 			<item value="ValidationMessage"/>
 			<item value="Validate"/>
 			<item value="MessageXml"/>
@@ -31,11 +36,6 @@
 			<item value="ApplicationScope"/>
 			<item value="SessionScopeBeanXml"/>
 			<item value="SessionScopeBeanJava"/>
-			<item value="SessionScope"/>
-			<item value="RequestScopeBeanXml"/>
-			<item value="RequestScopeBeanJava"/>
-			<item value="RequestScope"/>
-			<item value="RedirectForward"/>
 		</list>
 		<list key="version">
 			<item value="0.0.1-SNAPSHOT"/>

@@ -10,8 +10,9 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value=""/>
+		<item key="selection" value="messageSource"/>
 		<list key="findhistory">
+			<item value="messageSource"/>
 			<item value="application"/>
 			<item value="home"/>
 		</list>
