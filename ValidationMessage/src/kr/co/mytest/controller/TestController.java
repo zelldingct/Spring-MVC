@@ -12,7 +12,7 @@ import kr.co.mytest.beans.DataBean1;
 @Controller
 public class TestController {
 	@GetMapping("/input_data")
-	public String input_data() {
+	public String input_data(DataBean1 dataBean1) {
 		return "input_data";
 	}
 	
