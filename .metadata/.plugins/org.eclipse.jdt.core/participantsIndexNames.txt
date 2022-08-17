@@ -7,6 +7,8 @@ D:\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1396191527.in
 \ApplicationScopeBeanJava\src
 D:\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\366977571.index
 \ServletMVC\src
+D:\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3702980743.index
+\MyBatisJava\src
 D:\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1894737802.index
 \InterceptorJava\src
 D:\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4105085709.index
@@ -39,6 +41,8 @@ D:\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2048899465.in
 \Properties\src
 D:\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\439147737.index
 \MessageJava\src
+D:\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2950031492.index
+\HandleException\src
 D:\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1943588798.index
 \RequestScope\src
 D:\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3929127201.index
