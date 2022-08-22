@@ -56,8 +56,8 @@
     <fullyQualifiedTypeName name="kr.co.mytest.interceptor.TestInterceptor3"/>
     <fullyQualifiedTypeName name="org.springframework.web.servlet.HandlerInterceptor"/>
     <fullyQualifiedTypeName name="kr.co.mytest.interceptor.TestInterceptor4"/>
-    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
     <fullyQualifiedTypeName name="kr.co.mytest.interceptor.TestInterceptor5"/>
     <fullyQualifiedTypeName name="kr.co.mytest.interceptor.TestInterceptor6"/>
     <fullyQualifiedTypeName name="kr.co.mytest.interceptor.TestInterceptor7"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
 </qualifiedTypeNameHistroy>

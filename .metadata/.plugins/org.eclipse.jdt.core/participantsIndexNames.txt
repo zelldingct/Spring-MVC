@@ -63,6 +63,8 @@ D:\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2896937967.in
 \RedirectForward\src
 D:\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4166214628.index
 \MyBatisXml\src
+D:\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1732825014.index
+\MiniProjectJava\src
 D:\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3838367504.index
 \URLMapping\src
 D:\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\519421153.index
