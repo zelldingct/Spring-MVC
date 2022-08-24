@@ -95,6 +95,8 @@ D:\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1401010711.in
 \SpringMVCJava\src
 D:\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2926312857.index
 \Test\src
+D:\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3924721429.index
+\MiniProjectXml\src
 D:\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1105005514.index
 \URLMapping\src
 D:\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3346890048.index
