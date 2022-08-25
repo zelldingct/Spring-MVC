@@ -10,8 +10,9 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value=""/>
+		<item key="selection" value="더보기"/>
 		<list key="findhistory">
+			<item value="더보기"/>
 			<item value="soft"/>
 			<item value="Validate"/>
 			<item value="setDriverClassName"/>
