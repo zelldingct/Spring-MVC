@@ -24,7 +24,7 @@
 		<div class="col-lg-6" style="margin-top:20px">
 			<div class="card shadow">
 				<div class="card-body">
-					<h4 class="card-title">자유게시판</h4>
+					<h4 class="card-title">자유게시판ㅇㅇ</h4>
 					<table class="table table-hover" id='board_list'>
 						<thead>
 							<tr>
